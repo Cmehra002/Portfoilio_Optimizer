@@ -1,0 +1,50 @@
+Symbol,Company Name,Sector,Weightage
+RELIANCE,Reliance Industries Ltd.,Energy,10.36
+TCS,Tata Consultancy Services Ltd.,IT,4.95
+HDFCBANK,HDFC Bank Ltd.,Financial Services,8.72
+ICICIBANK,ICICI Bank Ltd.,Financial Services,8.14
+INFY,Infosys Ltd.,IT,5.92
+HINDUNILVR,Hindustan Unilever Ltd.,Consumer Goods,2.78
+ITC,ITC Ltd.,Consumer Goods,4.42
+LT,Larsen & Toubro Ltd.,Infrastructure,3.41
+SBIN,State Bank of India,Financial Services,2.91
+BHARTIARTL,Bharti Airtel Ltd.,Telecom,2.89
+KOTAKBANK,Kotak Mahindra Bank Ltd.,Financial Services,2.85
+HCLTECH,HCL Technologies Ltd.,IT,2.52
+ASIANPAINT,Asian Paints Ltd.,Consumer Goods,2.28
+AXISBANK,Axis Bank Ltd.,Financial Services,3.02
+BAJFINANCE,Bajaj Finance Ltd.,Financial Services,2.78
+MARUTI,Maruti Suzuki India Ltd.,Automobile,1.98
+SUNPHARMA,Sun Pharmaceutical Industries Ltd.,Pharma,1.93
+NTPC,NTPC Ltd.,Energy,1.76
+ONGC,Oil & Natural Gas Corporation Ltd.,Energy,1.55
+TITAN,Titan Company Ltd.,Consumer Goods,1.72
+ULTRACEMCO,UltraTech Cement Ltd.,Cement,1.66
+WIPRO,Wipro Ltd.,IT,1.41
+POWERGRID,Power Grid Corporation of India Ltd.,Energy,1.36
+ADANIENT,Adani Enterprises Ltd.,Conglomerate,1.31
+ADANIPORTS,Adani Ports and SEZ Ltd.,Infrastructure,1.28
+BAJAJFINSV,Bajaj Finserv Ltd.,Financial Services,1.23
+M&M,Mahindra & Mahindra Ltd.,Automobile,1.21
+JSWSTEEL,JSW Steel Ltd.,Metals,1.18
+GRASIM,Grasim Industries Ltd.,Cement,1.13
+TATASTEEL,Tata Steel Ltd.,Metals,1.11
+HDFCLIFE,HDFC Life Insurance Company Ltd.,Insurance,1.07
+DRREDDY,Dr. Reddy’s Laboratories Ltd.,Pharma,1.04
+CIPLA,Cipla Ltd.,Pharma,1.01
+BRITANNIA,Britannia Industries Ltd.,Consumer Goods,0.98
+DIVISLAB,Divi’s Laboratories Ltd.,Pharma,0.95
+SBILIFE,SBI Life Insurance Company Ltd.,Insurance,0.93
+BAJAJ-AUTO,Bajaj Auto Ltd.,Automobile,0.91
+TECHM,Tech Mahindra Ltd.,IT,0.89
+HEROMOTOCO,Hero MotoCorp Ltd.,Automobile,0.85
+EICHERMOT,Eicher Motors Ltd.,Automobile,0.83
+HINDALCO,Hindalco Industries Ltd.,Metals,0.81
+COALINDIA,Coal India Ltd.,Energy,0.79
+SHREECEM,Shree Cement Ltd.,Cement,0.77
+BPCL,Bharat Petroleum Corporation Ltd.,Energy,0.74
+NESTLEIND,Nestle India Ltd.,Consumer Goods,0.72
+UPL,UPL Ltd.,Agro Chemicals,0.7
+INDUSINDBK,IndusInd Bank Ltd.,Financial Services,0.68
+APOLLOHOSP,Apollo Hospitals Enterprise Ltd.,Healthcare,0.65
+HAVELLS,Havells India Ltd.,Consumer Goods,0.63
